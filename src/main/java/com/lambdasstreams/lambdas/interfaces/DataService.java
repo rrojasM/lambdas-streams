@@ -2,8 +2,8 @@ package com.lambdasstreams.lambdas.interfaces;
 
 import java.util.List;
 
-public interface DataService {
-    String getById(Long id);
-    List<String> getAllRecords();
+public interface DataService<T> {
+    T getById(Long id);
+    List<T> getAllRecords();
 
 }
