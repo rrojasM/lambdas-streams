@@ -11,7 +11,7 @@ public class LambdasApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(LambdasApplication.class, args);
-		System.out.println("Hello World");
+		System.out.println("LAMBDAS PROJECT SUCCESS...");
 
 		//DataService mongo = new MongoDB();
 		//DataService postgres = new PostgresDB();
