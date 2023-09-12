@@ -1,6 +1,4 @@
-package com.lambdasstreams.lambdas.interfaces;
-
-import com.lambdasstreams.lambdas.Employee;
+package com.lambdasstreams.lambdas.fundamentals;
 
 import java.util.List;
 import java.util.UUID;

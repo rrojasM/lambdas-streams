@@ -1,6 +1,6 @@
 package com.lambdasstreams.lambdas.temp;
 
-import com.lambdasstreams.lambdas.ILambdas.Math;
+import com.lambdasstreams.lambdas.iLambdas.Math;
 
 public class LambdaApp {
     public static void main(String[] args) {

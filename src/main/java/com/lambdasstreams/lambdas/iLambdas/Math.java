@@ -1,4 +1,4 @@
-package com.lambdasstreams.lambdas.ILambdas;
+package com.lambdasstreams.lambdas.iLambdas;
 @FunctionalInterface
 public interface Math {
     Double excecute(Double a, Double b);

@@ -1,4 +1,4 @@
-package com.lambdasstreams.lambdas.interfaces;
+package com.lambdasstreams.lambdas.fundamentals;
 
 import java.util.List;
 

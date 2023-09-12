@@ -1,4 +1,4 @@
-package com.lambdasstreams.lambdas;
+package com.lambdasstreams.lambdas.fundamentals;
 
 import lombok.ToString;
 
